@@ -190,24 +190,9 @@ Explore AI-powered analytics using **Databricks Genie**.
 - Explored data without manually writing every SQL query
 - Used Genie to support self-service analytics
 
-### Example Business Questions
-
-```text
-What is the total revenue?
-
-Which products generate the highest revenue?
-
-Who are our top customers?
-
-What are the monthly sales trends?
-
-Which product category performs best?
-
-What are the lowest-performing products?
-
-How has revenue changed over time?
 
 ##license
+
 This project is licensed under the MIT Lincense. You are free to use ,modify, and share this project with proper attribution
 
 ## About me
